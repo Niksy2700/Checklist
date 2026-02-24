@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Checklist.App/Checklist.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Checklist.Tests/Checklist.Tests.csproj" />
+  </Folder>
+</Solution>
